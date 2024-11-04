@@ -9,13 +9,13 @@ const Footer = () => {
           <p className="font-semibold text-gray text-xs">
             Contactenos si hay problemas: {' '}
             <span className="underline text-blue">
-            Find an Apple Store {' '}
+             {' '}
             </span>
-            or {' '}
+             {' '}
             <span className="underline text-blue">
-            other retailer
+            
             </span>{' '}
-            near you.
+            
           </p>
           <p className="font-semibold text-gray text-xs">
             Telefono 51 914-595-625

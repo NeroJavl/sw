@@ -41,7 +41,7 @@ const HowItWorks = () => {
           </h2>
 
           <p className="hiw-subtitle">
-            Sin Lageos - Sin Sobre-Calentamiento.
+            Sin Sobrecalentamiento - Lageos
           </p>
         </div>
 
@@ -66,18 +66,18 @@ const HowItWorks = () => {
           <div className="hiw-text-container">
                 <div className="flex flex-1 justify-center flex-col">
                   <p className="hiw-text g_fadeIn">
-                    A17 Pro ofrece el mejor rendimiento {' '}
+                    Chip A17 Pro ofrece el mejor rendimiento {' '}
                     <span className="text-white">
-                      gráfico extremo.
+                      gráfico extremo
                     </span>.
                   </p>
 
                   <p className="hiw-text g_fadeIn">
-                   Mobile {' '}
+                    {' '}
                     <span className="text-white">
-                      games will look and feel so immersive
+                      
                     </span>,
-                     with incredibly detailed environments and characters.
+                     
                   </p>
                 </div>
               

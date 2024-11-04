@@ -9,31 +9,31 @@ import {
   yellowImg,
 } from "../utils";
 
-export const navLists = ["iService Cajamarca", "", "", ""];
+export const navLists = ["iService", "Cajamarca", "", ""];
 
 export const hightlightsSlides = [
   {
     id: 1,
     textLists: [
-      "Enter A17 Pro.",
-      "Game‑changing chip.",
-      "Groundbreaking performance.",
+      "Chip A17 Pro.",
+      "Especialmente para juegos.",
+      "Maximo Rendimiento.",
     ],
     video: highlightFirstVideo,
     videoDuration: 4,
   },
   {
     id: 2,
-    textLists: ["Titanium.", "So strong. So light. So Pro."],
+    textLists: ["Titanium.", "Resistente. Ligero."],
     video: highlightSecondVideo,
     videoDuration: 5,
   },
   {
     id: 3,
     textLists: [
-      "iPhone 15 Pro Max has the",
-      "longest optical zoom in",
-      "iPhone ever. Far out.",
+      "iPhone 15 Pro Max",
+      "zoom optico",
+      "Siempre más lejos.",
     ],
     video: highlightThirdVideo,
     videoDuration: 2,
@@ -79,9 +79,7 @@ export const sizes = [
 ];
 
 export const footerLinks = [
-  "Privacy Policy",
-  "Terms of Use",
-  "Sales Policy",
-  "Legal",
-  "Site Map",
+  "Instagram",
+  "WhatsApp",
+  "Ubicanos",
 ];
